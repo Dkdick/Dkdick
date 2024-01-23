@@ -2,8 +2,8 @@
   <!--obs: Para traca de nomes deve ser feitas com letras minuscular. Apenas na primeira linha o nome poder ser escrito com letra maiúscula.-->
  <div>
    <a href="https://github.com/Dkdick">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkdick&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkdick&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dkdick&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dkdick&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
